@@ -1,0 +1,161 @@
+customer_id,customer_name,segment,monthly_revenue,contract_months_remaining,support_tickets_90d,product_usage_score,days_since_login,nps_score,payment_delays,account_owner,churned
+CU001,Cedar Works,Mid-Market,5993.94,19,8,16,37,70,1,James Wilson,0
+CU002,Spark Partners,SMB,1727.84,15,2,94,118,-1,1,James Wilson,0
+CU003,Radiant Systems,SMB,1730.41,16,14,50,34,-33,0,Sarah Chen,1
+CU004,Kinetic Systems,Mid-Market,7589.86,21,0,38,93,32,4,Rachel Kim,0
+CU005,Keystone Technologies,Enterprise,16333.91,5,4,53,94,19,2,Rachel Kim,1
+CU006,Trek Industries,Enterprise,52094.52,3,15,82,48,-64,4,Sarah Chen,1
+CU007,Bright Solutions,Enterprise,27397.44,12,6,94,68,-29,2,Rachel Kim,1
+CU008,Ridge LLC,SMB,791.69,20,5,49,61,26,3,Priya Patel,1
+CU009,Edge Systems,SMB,485.63,21,11,31,59,5,4,Priya Patel,0
+CU010,Cedar Corp,SMB,1640.88,4,0,77,107,-9,3,Rachel Kim,1
+CU011,Nova Inc,Enterprise,44523.09,21,4,30,49,-70,1,James Wilson,0
+CU012,Wave Inc,SMB,434.83,23,14,51,77,21,1,Rachel Kim,0
+CU013,Sapphire Industries,SMB,1475.4,16,4,90,116,36,0,Priya Patel,0
+CU014,Solar Global,Mid-Market,4651.71,7,5,60,119,-50,4,Emily Thompson,1
+CU015,Rocket Global,Enterprise,42968.29,13,2,98,74,-72,3,David Park,0
+CU016,Spire Technologies,Enterprise,20369.59,21,4,67,8,-61,2,Marcus Rodriguez,0
+CU017,Modus Global,Mid-Market,9063.91,10,6,52,33,-60,1,Emily Thompson,1
+CU018,Core Inc,Mid-Market,6173.99,7,4,65,75,-90,1,Rachel Kim,0
+CU019,Torque Ventures,Mid-Market,11398.93,14,4,85,98,50,2,James Wilson,0
+CU020,Latitude Group,Mid-Market,3806.45,5,4,30,34,-100,3,Sarah Chen,1
+CU021,Meridian Works,SMB,1116.24,3,9,40,0,-55,3,Rachel Kim,0
+CU022,Icon Inc,Enterprise,17446.73,23,9,5,39,0,4,James Wilson,1
+CU023,Eagle Technologies,Mid-Market,11284.59,11,2,12,63,48,4,David Park,0
+CU024,Vista Global,Mid-Market,10834.72,11,0,56,21,-11,5,Rachel Kim,1
+CU025,Spire Technologies 2,Mid-Market,4950.45,18,4,83,59,9,5,Priya Patel,0
+CU026,Quest Technologies,SMB,1785.97,15,13,51,63,63,0,Sarah Chen,0
+CU027,Iris Inc,Enterprise,51226.67,12,8,60,92,81,1,James Wilson,0
+CU028,Talon Systems,Mid-Market,7774.41,9,13,90,71,-44,4,James Wilson,0
+CU029,Onyx LLC,Mid-Market,7531.68,10,0,18,10,-100,3,James Wilson,0
+CU030,Kinetic Solutions,Enterprise,23608.91,12,2,94,104,-38,2,David Park,0
+CU031,Latitude Global,SMB,595.52,17,12,32,100,81,3,Rachel Kim,1
+CU032,Endeavor Partners,Enterprise,55066.36,6,12,91,13,-46,1,David Park,0
+CU033,Cedar Partners,Enterprise,55220.07,7,3,82,59,14,5,Marcus Rodriguez,0
+CU034,Orbit Systems,SMB,1729.51,14,13,92,29,67,3,Marcus Rodriguez,0
+CU035,Vector Works,SMB,1111.96,13,0,6,34,42,0,Rachel Kim,0
+CU036,Beacon Inc,SMB,1133.34,8,0,30,84,48,1,Priya Patel,0
+CU037,Trek Systems,Mid-Market,9396.58,10,7,18,36,74,5,David Park,1
+CU038,Titan Inc,Enterprise,55061.29,9,15,63,4,100,2,Sarah Chen,0
+CU039,Flex Systems,SMB,2262.88,18,1,60,82,-48,5,James Wilson,0
+CU040,Quantum Works,Mid-Market,9908.82,2,11,11,77,36,0,James Wilson,0
+CU041,Dynamo Systems,Enterprise,42817.52,5,14,7,25,79,1,Rachel Kim,1
+CU042,Solar Ventures,Mid-Market,3299.33,5,7,27,61,-44,2,Priya Patel,1
+CU043,Ripple Technologies,Enterprise,19758.18,6,6,22,3,16,0,Marcus Rodriguez,0
+CU044,Horizon Global,SMB,2286.96,19,9,42,88,53,5,Marcus Rodriguez,0
+CU045,Beacon Technologies,Mid-Market,8261.08,8,9,19,108,68,0,James Wilson,0
+CU046,Warp Solutions,SMB,419.31,16,1,68,41,-66,1,Rachel Kim,0
+CU047,Kinetic Industries,Mid-Market,3463.98,13,5,93,88,-38,4,David Park,0
+CU048,Vector Works 2,Mid-Market,8803.27,1,5,32,17,-76,0,Marcus Rodriguez,0
+CU049,Raven Solutions,Mid-Market,2548.09,22,2,78,39,-11,0,David Park,0
+CU050,Spire Industries,Enterprise,19718.79,20,10,43,71,-26,5,Priya Patel,0
+CU051,Solar Solutions,SMB,1552.34,17,1,61,38,-63,5,Marcus Rodriguez,0
+CU052,Edge Global,SMB,1852.98,7,11,21,103,29,2,Marcus Rodriguez,0
+CU053,Hydra Industries,SMB,1769.12,13,0,90,13,34,5,Emily Thompson,0
+CU054,Lumen Technologies,SMB,870.97,4,5,94,31,61,3,Marcus Rodriguez,0
+CU055,Meridian Global,Mid-Market,9265.7,4,11,48,50,-10,1,Sarah Chen,0
+CU056,Axiom Solutions,SMB,898.22,6,4,29,37,-84,1,Rachel Kim,0
+CU057,Onyx Corp,Enterprise,27619.19,19,13,21,96,27,4,Rachel Kim,1
+CU058,Delta Inc,Enterprise,47831.59,12,13,17,22,70,4,David Park,0
+CU059,Sigma Technologies,Enterprise,43182.38,22,10,88,62,86,1,Priya Patel,0
+CU060,Relay Ventures,Mid-Market,10567.62,7,8,29,14,7,4,Marcus Rodriguez,1
+CU061,Vista Inc,Mid-Market,8747.32,10,0,72,96,78,2,Sarah Chen,0
+CU062,Sigma Technologies 2,Mid-Market,7898.93,19,15,14,24,81,5,David Park,1
+CU063,Hydra Global,SMB,596.72,7,14,71,16,51,1,Emily Thompson,0
+CU064,Warp LLC,Mid-Market,5993.3,3,14,22,96,-76,4,David Park,1
+CU065,Iron Global,Mid-Market,5019.42,13,6,90,110,98,1,David Park,0
+CU066,Global Solutions,Mid-Market,4817.9,13,14,38,118,79,3,Marcus Rodriguez,0
+CU067,Vertex Industries,Enterprise,58704.51,18,4,12,65,97,0,Emily Thompson,0
+CU068,Icon Group,SMB,1225.51,20,4,44,77,-13,5,David Park,0
+CU069,Blue Group,Enterprise,54818.23,8,13,87,52,60,1,Sarah Chen,0
+CU070,Lumen LLC,SMB,1725.39,9,1,46,103,76,0,Sarah Chen,0
+CU071,Summit Technologies,SMB,2069.1,7,10,45,103,-72,4,Rachel Kim,1
+CU072,Echo Ventures,Enterprise,36126.58,1,2,10,50,-38,0,Emily Thompson,1
+CU073,Legacy Corp,Enterprise,39691.39,3,6,56,38,49,5,Emily Thompson,1
+CU074,Core Industries,SMB,1434.29,13,5,30,50,53,1,Rachel Kim,0
+CU075,Relay Technologies,SMB,810.01,17,15,68,69,55,3,David Park,0
+CU076,Lumen Global,SMB,1917.15,24,11,63,5,13,4,Emily Thompson,0
+CU077,Granite Partners,SMB,989.62,1,1,60,66,-52,1,Sarah Chen,1
+CU078,Endeavor Technologies,Enterprise,13167.17,6,5,63,6,98,5,Sarah Chen,1
+CU079,Origin Solutions,Mid-Market,8631.99,21,1,74,50,-20,4,Marcus Rodriguez,0
+CU080,Rally Partners,Enterprise,20501.31,6,1,37,71,-17,2,Emily Thompson,0
+CU081,Vivid Inc,SMB,2374.96,12,1,57,41,4,0,David Park,0
+CU082,Kinetic Partners,SMB,2403.25,13,13,26,63,76,5,Rachel Kim,1
+CU083,Digital Inc,Mid-Market,11191.21,13,14,25,115,47,2,Rachel Kim,1
+CU084,Titan Partners,Enterprise,29767.62,15,10,74,14,17,1,David Park,0
+CU085,Pulse Partners,Mid-Market,2646.84,21,2,74,110,-15,3,Priya Patel,0
+CU086,Ripple Inc,Mid-Market,11319.03,16,14,8,28,-38,4,James Wilson,1
+CU087,Chrome Industries,SMB,1299.19,22,1,98,32,88,0,Marcus Rodriguez,0
+CU088,Genesis Systems,SMB,2429.98,21,3,79,115,3,4,Rachel Kim,0
+CU089,Spark Industries,SMB,2423.6,11,8,66,93,-52,1,Emily Thompson,1
+CU090,Titan Corp,Mid-Market,10603.59,5,5,66,102,-30,4,Marcus Rodriguez,0
+CU091,Keystone LLC,Enterprise,26133.55,4,0,98,26,-100,0,Emily Thompson,0
+CU092,Swift Technologies,SMB,1208.71,3,7,99,35,40,1,Priya Patel,0
+CU093,Torque LLC,SMB,2187.39,19,14,28,28,78,4,Sarah Chen,1
+CU094,Ignite Solutions,Mid-Market,5510.76,20,11,59,37,22,3,Marcus Rodriguez,0
+CU095,Vega Partners,SMB,755.93,18,13,13,56,83,5,Rachel Kim,0
+CU096,Forge Inc,Mid-Market,7789.61,15,6,7,96,-39,1,Marcus Rodriguez,0
+CU097,Epic Global,Mid-Market,11393.47,9,9,35,100,-69,5,Marcus Rodriguez,1
+CU098,Relay Inc,Mid-Market,9112.28,17,2,44,26,57,1,Marcus Rodriguez,0
+CU099,Quantum LLC,Enterprise,39362.94,14,0,40,54,-72,3,James Wilson,1
+CU100,Crest Partners,Enterprise,16664.47,15,4,28,32,-52,5,Marcus Rodriguez,0
+CU101,Titan Industries,Enterprise,41520.35,1,12,99,67,72,2,Emily Thompson,0
+CU102,Edge LLC,SMB,2479.11,21,3,10,85,-71,0,Sarah Chen,0
+CU103,Swift Solutions,Mid-Market,3830.8,22,9,70,65,43,2,Priya Patel,0
+CU104,Acme Works,Mid-Market,7424.13,22,7,88,9,67,4,David Park,0
+CU105,Swift Works,SMB,2242.48,3,0,96,4,-82,3,Marcus Rodriguez,0
+CU106,Summit Group,Mid-Market,9537.3,16,9,79,73,-83,2,Rachel Kim,0
+CU107,Spire Technologies 3,Mid-Market,9121.65,23,0,8,96,-100,1,Marcus Rodriguez,1
+CU108,Rally Systems,SMB,1875.22,11,11,83,117,-23,4,Rachel Kim,1
+CU109,Lumen Partners,Mid-Market,5915.17,12,3,10,37,14,4,Emily Thompson,1
+CU110,Ripple Partners,Enterprise,26092.41,10,7,98,12,74,2,Rachel Kim,0
+CU111,Flex Solutions,Mid-Market,10188.93,16,4,55,30,93,2,David Park,0
+CU112,Spire Corp,Enterprise,50885.44,8,1,66,46,12,3,Sarah Chen,1
+CU113,Orbit Inc,SMB,2220.85,6,5,61,99,13,0,Rachel Kim,0
+CU114,Legacy Works,SMB,2317.81,12,4,70,108,65,2,Rachel Kim,0
+CU115,Modus Technologies,SMB,1473.82,24,1,83,87,78,2,Sarah Chen,0
+CU116,Origin Technologies,SMB,1453.18,21,12,79,51,-38,5,David Park,0
+CU117,Aurora Technologies,SMB,2076.42,8,13,12,55,31,1,Marcus Rodriguez,0
+CU118,Crest Industries,Enterprise,43198.27,4,10,30,14,28,5,Rachel Kim,1
+CU119,Everest Corp,SMB,1874.13,8,10,55,28,-93,5,Sarah Chen,1
+CU120,Civic Corp,Mid-Market,10060.03,18,15,49,7,56,4,Emily Thompson,0
+CU121,Kinetic Solutions 2,SMB,2269.01,5,10,48,4,-46,0,Sarah Chen,0
+CU122,Rally Technologies,SMB,1109.79,9,2,9,28,2,1,Emily Thompson,0
+CU123,Radiant Global,Mid-Market,6068.04,4,14,74,46,30,3,David Park,1
+CU124,Lumen Technologies 2,Enterprise,16511.13,22,8,30,67,-69,3,Marcus Rodriguez,0
+CU125,Trek Technologies,Mid-Market,7993.66,17,6,72,75,-91,2,Sarah Chen,0
+CU126,Origin Works,Mid-Market,2841.45,9,6,23,44,9,2,Priya Patel,0
+CU127,Bright Inc,SMB,1377.76,1,15,88,1,61,3,Priya Patel,1
+CU128,Solar Group,SMB,1539.55,21,14,24,26,23,2,James Wilson,0
+CU129,Paragon Group,Enterprise,25753.98,20,10,16,94,-14,0,Rachel Kim,1
+CU130,Quantum Technologies,Mid-Market,8112.92,13,5,51,114,-46,5,David Park,1
+CU131,Origin Industries,Mid-Market,2789.75,16,15,5,114,-69,2,Sarah Chen,1
+CU132,Orbit Solutions,Mid-Market,2854.81,13,7,94,35,77,4,Priya Patel,0
+CU133,Cedar Works 2,Enterprise,51484.83,14,3,18,35,34,2,Rachel Kim,0
+CU134,Orbit Solutions 2,Mid-Market,5921.81,3,7,68,25,-8,1,Priya Patel,0
+CU135,Summit Group 2,SMB,666.83,6,3,42,42,-93,0,Sarah Chen,1
+CU136,Fusion Group,Mid-Market,7461.31,18,7,41,26,-36,1,Emily Thompson,0
+CU137,Pivot Ventures,Mid-Market,9814.94,19,8,15,68,-44,1,Sarah Chen,0
+CU138,Aurora Technologies 2,SMB,853.22,5,2,81,19,-34,4,James Wilson,0
+CU139,Helios Solutions,Mid-Market,8417.46,15,15,7,10,86,0,Sarah Chen,0
+CU140,Keystone Corp,SMB,579.23,2,2,37,73,-29,0,Sarah Chen,0
+CU141,Zenith Systems,SMB,508.53,10,10,10,103,-47,0,James Wilson,0
+CU142,Empire Industries,Mid-Market,7547.87,24,12,54,37,-34,0,David Park,0
+CU143,Flex Corp,Mid-Market,7636.03,18,15,14,5,-50,0,Sarah Chen,0
+CU144,Iron Ventures,Mid-Market,8555.58,13,1,9,71,-4,4,James Wilson,1
+CU145,Zion Group,Mid-Market,9397.87,5,12,27,22,-9,2,Rachel Kim,0
+CU146,Traverse Inc,Enterprise,58840.9,23,9,14,46,-93,1,Emily Thompson,0
+CU147,Aurora Solutions,SMB,1484.23,24,2,48,89,61,0,Emily Thompson,0
+CU148,Epic Group,Mid-Market,5568.09,1,2,6,45,-66,2,Sarah Chen,0
+CU149,Talon Solutions,Enterprise,50168.94,22,4,17,106,-5,2,David Park,0
+CU150,Beacon Inc 2,Mid-Market,5072.91,1,4,44,11,-13,1,David Park,0
+CU151,Trek Partners,SMB,1321.84,18,1,6,89,-23,4,Rachel Kim,1
+CU152,Flex Global,Mid-Market,3245.34,15,11,88,12,-69,3,Sarah Chen,1
+CU153,Vibe Inc,Enterprise,13216.84,17,9,69,103,19,3,Emily Thompson,0
+CU154,Frontier Solutions,Mid-Market,11645.16,11,12,67,61,-55,2,David Park,0
+CU155,Keystone LLC 2,SMB,2155.56,21,5,77,81,43,5,Sarah Chen,0
+CU156,Rally Partners 2,Mid-Market,9111.75,22,4,21,88,95,5,Priya Patel,0
+CU157,Core Global,SMB,1258.8,17,5,13,96,64,1,David Park,0
+CU158,Orbit Global,SMB,763.92,13,0,79,110,81,3,James Wilson,0
+CU159,Modus Works,Mid-Market,3986.15,1,4,19,103,41,2,Priya Patel,1
+CU160,Spire Industries 2,SMB,925.51,2,8,28,59,-46,4,David Park,1
